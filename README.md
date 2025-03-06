@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # E-Commerce Product Listing Page
 
 A modern e-commerce product listing page built with React, TypeScript, and Tailwind CSS.
@@ -56,5 +56,3 @@ React Context API is used for global state management, providing access to:
 - Save for later functionality
 - Order history
 =======
-# E-Commerce-Listing-Frontend
->>>>>>> 3b4b0380ba58b320150f3dd6ce83f50cd5d4dff3
