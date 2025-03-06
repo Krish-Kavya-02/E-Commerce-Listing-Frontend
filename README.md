@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # E-Commerce Product Listing Page
 
 A modern e-commerce product listing page built with React, TypeScript, and Tailwind CSS.
